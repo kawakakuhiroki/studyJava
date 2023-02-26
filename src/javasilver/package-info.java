@@ -5,4 +5,4 @@
  * @author kawakaku
  *
  */
-package javase11silver;
+package javasilver;

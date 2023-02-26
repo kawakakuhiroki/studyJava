@@ -1,4 +1,4 @@
-package javase11silver;
+package javasilver;
 
 public class HelloJava11Silver {
 
