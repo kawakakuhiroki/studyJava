@@ -5,7 +5,7 @@
 src/.DS_Store
 
 # .metadataを無視する
-.matadata/
+.metadata/
 
 # .settingsを無視する
 .settings/
