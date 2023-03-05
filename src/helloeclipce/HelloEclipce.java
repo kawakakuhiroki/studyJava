@@ -9,5 +9,6 @@ public class HelloEclipce {
 			result =  result + "*";
 		}
 		System.out.println(result);
+		System.out.println("AAA");
 	}
 }
