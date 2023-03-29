@@ -1,5 +1,7 @@
 package sukkiri_java;
 
+import java.util.Iterator;
+
 public class test {
 
 	public static void main(String[] args) {
@@ -17,6 +19,19 @@ public class test {
 		int ans = 1;
 		int jkncom = 3;
 		String henkan = String.valueOf(ans) + String.valueOf(jknCom);
+		
+		int weight = 0;
+		while(weight == 60) {
+		}
+		int age1 = 0; int age2 = 0;
+		while((age1 + age2) * 2 > 60 ) {
+		}
+		int age3 = 10;
+		boolean age4 = age3 % 2 == 1;
+		String name = "湊";
+		if(name.equals("湊")){
+			System.out.println("yes");
+		}
 	}
 
 }
