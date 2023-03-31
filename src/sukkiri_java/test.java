@@ -32,6 +32,10 @@ public class test {
 		if(name.equals("湊")){
 			System.out.println("yes");
 		}
+		int[] points = new int[4];
+		double[] weights = new double[5];
+		boolean[] answers = new boolean[3];
+		String[] names = new String[3];
 	}
 
 }
