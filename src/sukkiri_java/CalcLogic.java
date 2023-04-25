@@ -10,4 +10,7 @@ public class CalcLogic {
 	public static int kakeru(int a, int b) {
 		return (a * b);
 	}
+	public static int waru(int a, int b) {
+		return (a / b);
+	}
 }
