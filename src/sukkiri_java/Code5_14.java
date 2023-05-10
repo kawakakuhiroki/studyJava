@@ -9,7 +9,7 @@ public class Code5_14 {
 		return newArray;
 	}
 	public static void main(String[] args) {
-		int[] array = makeArray(3);
+		int[] array = makeArray(99999999);
 		for(int i : array) {
 			System.out.println(i);
 		}
